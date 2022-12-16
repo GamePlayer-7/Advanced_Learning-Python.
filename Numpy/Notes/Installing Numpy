@@ -1,0 +1,8 @@
+You should have installed Anaconda first.
+
+Follow below Steps :
+
+Open Terminal or Command Prompt and type :
+     
+       conda install numpy
+       pip install numpy
