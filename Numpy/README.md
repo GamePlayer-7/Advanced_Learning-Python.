@@ -8,3 +8,7 @@
 * With NumPy, you can easily create arrays, which is a data structure that allows you to store multiple values in a single variable.
 
 * NumPy is often used along with packages like SciPy (Scientific Python) and Matplotlib (plotting library).
+
+Note : 
+
+* In Numpy indexing we can use comma. eg. arr_2d[1,2]
